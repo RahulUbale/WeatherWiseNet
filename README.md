@@ -1,4 +1,4 @@
-# Epsilon
+# WeatherWiseNet
 ## Project Overview
 This project provides a user interface to view the Reflectivity plots for various regions in the US for a given Date and Time. It allows users to login with their Google account and search history for each user is maintained for faster data retrieval of recent searches. It makes use of distributed systems architecture containerized using Docker dealing with Micro-services written in different programming languages.
 # Tech Stack Used:
